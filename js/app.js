@@ -1,4 +1,4 @@
-function substrac(a, b){
-    return a - b + 5;
+function Multiplay(a, b) {
+    return a * b;
 
 }
