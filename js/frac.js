@@ -1,0 +1,1 @@
+let frac = (x, y) => x / y;
